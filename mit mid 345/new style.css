@@ -1,0 +1,16 @@
+table{
+  width: 100%;
+  border-collapse: separate;
+}
+th ,td{
+  border: 2px solid darkblue;
+  border-color: darkslategrey;
+  text-align: center;
+  padding: 5px;
+}
+tr:nth-child(even){
+  background-color: lightgoldenrodyellow;
+}
+body{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/20190212_SKJ0426-HDR-2.jpg/1200px-20190212_SKJ0426-HDR-2.jpg");
+}
